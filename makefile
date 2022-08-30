@@ -6,10 +6,10 @@ init:
 	go get -d github.com/bankonly/goutils
 
 dev:
-	gomon src/main.go
+	gomon main.go
 
 start:
-	go run src/main.go
+	go run main.go
 
 push:
 	git add .

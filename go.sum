@@ -1,5 +1,9 @@
 github.com/bankonly/goutils v1.0.0 h1:FysdGoG9ojnElXrqYdst002LlWbLxLF7/ofYTeBgaDI=
 github.com/bankonly/goutils v1.0.0/go.mod h1:ls0pKBHmEwpkSV/gO6t/xQ8HMDzhzY36RpBdv137kCI=
+github.com/bankonly/goutils v1.0.1 h1:+iPORqoc6pW5oDdWGHJP5kmZiqqNLJrRplIHEkKVkME=
+github.com/bankonly/goutils v1.0.1/go.mod h1:ls0pKBHmEwpkSV/gO6t/xQ8HMDzhzY36RpBdv137kCI=
+github.com/bankonly/goutils v1.0.3 h1:HwPweqNFWT2Gp0vkVNMZcP2qlFQVXmP+v6iwHl4snoA=
+github.com/bankonly/goutils v1.0.3/go.mod h1:ls0pKBHmEwpkSV/gO6t/xQ8HMDzhzY36RpBdv137kCI=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
